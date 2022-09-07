@@ -21,7 +21,7 @@ return a * b
 ```
 First project: CV
 ### Education
-In 2016 Received higher education, graduating from the Belarusian National Technical University with the qualification of a teacher.
+In 2016 Received higher education, graduating from the Belarusian National Technical University with the qualification of a teacher
 ### Additional education
 *2018 graduated from the advanced training program "State Ideology as the Basis for the Formation of Citizenship, Patriotism and National Self-Consciousness" at the Belarusian National Technical University
 *2016 graduated from educational courses in hairdressing at the training center "Tree of Knowledge"
