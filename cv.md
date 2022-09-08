@@ -1,4 +1,4 @@
-! [Моя фотография] (/Frontend developer/IMG_3788.JPG)
+![Моя фотография](/images/IMG_3788.JPG)
 ## Katerina Gapanovich
 ### Contacts for communication
 * Phone number: +375333042962
