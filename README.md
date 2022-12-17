@@ -1,2 +1,4 @@
 https://KaterinaGapanovich.github.io/rsschool-cv/cv
-Link to CV
+https://KaterinaGapanovich.github.io/rsschool-cv/
+
+Links to CV

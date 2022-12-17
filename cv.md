@@ -1,4 +1,4 @@
-<img src="images/IMG_3788.JPG" width="200">
+<img src="images/photo_2022-12-17_00-36-10.png" width="200">
 
 ## Katerina Gapanovich
 ### Contacts for communication
