@@ -12,7 +12,7 @@
 *I strive to realize my potential and achieve high results in the professional field, which in the future will probably benefit the IT company. Get theoretical knowledge and practical experience in the profession of a JS developer, thanks to the passage of RS School.*
 *I accept and follow the norms of behavior accepted in the company and the team; I build working relationships based on trust and mutual use; conscientious attitude to the performance of work; I always meet the promised deadlines; consequence on the result; I strive to learn and explore new things; I do not have any bad habits.*
 ### Skills
-Familiar with the hypertext markup language of HTML documents, programming languages PHP, C#.
+Familiar with the hypertext markup language of HTML documents, CSS.
 ### Сode example
 Solving the problem when registering on Codewars
 ```javascript
